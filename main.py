@@ -10,6 +10,7 @@ Usage:
     python3 main.py --schedule
 """
 
+import utils.session
 import argparse
 import sys
 

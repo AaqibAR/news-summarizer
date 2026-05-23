@@ -1,0 +1,5 @@
+groq==1.2.0
+pytest==9.0.3
+python-dotenv==1.2.2
+requests==2.34.0
+schedule==1.2.2
